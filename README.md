@@ -1,3 +1,6 @@
+sticky-note type react aplication project used to save notes and reminders
+
+
 ![alt text](https://github.com/PaluchAlex/Keeper/blob/master/image.png?raw=true)
 
 
