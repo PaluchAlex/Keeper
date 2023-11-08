@@ -1,4 +1,4 @@
-![alt text](https://github.com/PaluchAlex/Keeper/blob/master/image.jpg?raw=true)
+![alt text](https://github.com/PaluchAlex/Keeper/blob/master/image.png?raw=true)
 
 
 
